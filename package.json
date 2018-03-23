@@ -1,0 +1,23 @@
+{
+  "name": "tab-mover",
+  "main": "./lib/tab-mover",
+  "version": "0.0.1",
+  "description": "Move tabs between panes, maximise them.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "tab-mover:move_left",
+      "tab-mover:move_right",
+      "tab-mover:move_up",
+      "tab-mover:move_down"
+    ]
+  },
+  "repository": "https://github.com/malin-as/tab-mover",
+  "license": "GPLv3",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

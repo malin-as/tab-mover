@@ -1,0 +1,30 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Tab Mover",
+          "submenu": [
+            {
+              "label": "Move to Left Pane",
+              "command": "tab-mover:move_left"
+            },
+            {
+              "label": "Move to Right Pane",
+              "command": "tab-mover:move_right"
+            },
+            {
+              "label": "Move to Up Pane",
+              "command": "tab-mover:move_up"
+            },
+            {
+              "label": "Move to Down Pane",
+              "command": "tab-mover:move_down"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "atom-workspace": {
+    "cmd-shift-left": "tab-mover:move_left",
+    "cmd-shift-right": "tab-mover:move_right",
+    "cmd-shift-up": "tab-mover:move_up",
+    "cmd-shift-down": "tab-mover:move_down"
+  }
+}
